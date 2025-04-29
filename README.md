@@ -39,3 +39,18 @@ This project analyzes retail sales data to generate insights, trends, and dynami
    ```bash
    git clone https://github.com/vemularajesh225/sales-data-analysis.git
    cd sales-data-analysis
+
+
+## 📊 Sample Visualizations
+
+### 📈 Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+### 🗺️ Sales by Region
+![Sales by Region](images/Sales_by_Region.png)
+
+### 🏆 Top 10 Products by Revenue
+![Top Products](images/top_10_products.png)
+
+### 📋 Excel Sales Dashboard
+![Sales Dashboard](images/sales_dashboard_screenshot.png)
