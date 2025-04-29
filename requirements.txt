@@ -1,0 +1,12 @@
+
+---
+
+### ✅ `requirements.txt`
+
+```txt
+pandas
+matplotlib
+seaborn
+xlsxwriter
+reportlab
+notebook
